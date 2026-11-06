@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "hash_algorithm": "sha256",
+  "files": [
+    {
+      "path": "change.txt",
+      "size_bytes": 22,
+      "sha256": "e745eeb80f3dd60fffa217fdf20e3d36185eb686aeb0ceaca4e7ebfdfcad8d59"
+    },
+    {
+      "path": "common.txt",
+      "size_bytes": 23,
+      "sha256": "2c4df90dbbb165f6f3c7423a334bfff81516a86092f6681702316de6e72bd4a4"
+    },
+    {
+      "path": "duplicate-copy.txt",
+      "size_bytes": 23,
+      "sha256": "2c4df90dbbb165f6f3c7423a334bfff81516a86092f6681702316de6e72bd4a4"
+    },
+    {
+      "path": "nested folder/metadata.json",
+      "size_bytes": 36,
+      "sha256": "28c5a5983fa8d5e06da4f5018f159b97055e08fb1e6674ed962048514f4a12ab"
+    },
+    {
+      "path": "removed.txt",
+      "size_bytes": 24,
+      "sha256": "7a6ec56a588b5a115a82bb6310cb63f907dda79b727c98b27a4d7c728bba1221"
+    }
+  ],
+  "skipped": []
+}

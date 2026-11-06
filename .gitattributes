@@ -1,0 +1,2 @@
+# Preserve the exact bytes used to generate the synthetic example manifests.
+examples/** text eol=lf
